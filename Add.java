@@ -1,8 +1,9 @@
-class SUM
+class Add
 {
  public static void main(String args[])
   {
     int a=2,b=7;
-    System.out.println("addition=",a+b);
+    int c=a+b;
+    System.out.println("addition=",c);
   }
 }
